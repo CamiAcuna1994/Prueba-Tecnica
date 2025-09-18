@@ -59,7 +59,7 @@ Esto generará:
    jmeter -n -t "Camila Performance Testing.jmx" -l results.jtl -e -o report
    ```
 
-⚠️ En Windows no se usa `$(date ...)`, por lo que se recomienda cambiar manualmente el nombre de los archivos/carpeta si se quiere conservar múltiples ejecuciones.
+⚠️ En Windows no se usa `$(date ...)`, por que recomiendo a la persona que revise la prueba cambiar manualmente el nombre de los archivos/carpeta si se quiere conservar múltiples ejecuciones.
 
 ---
 
@@ -79,5 +79,4 @@ en cualquier navegador.
 ---
 
 ## 📝 Nota
-✅ Estas pruebas fueron **ejecutadas en MacOS** y validadas correctamente.  
-En Windows los pasos son equivalentes, aunque los comandos pueden variar ligeramente.
+✅ Las pruebas las ejecute en Mac el archivo .jmx se puede abrir en windows y correr con jmeter el reporte de fecha y hora solo se puede ver desde mac o linux 
