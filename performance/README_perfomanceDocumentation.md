@@ -2,7 +2,7 @@
 # 📊 Pruebas de Carga y Estrés con JMeter
 
 Este directorio contiene los archivos necesarios para ejecutar las **pruebas de rendimiento** realizadas con **Apache JMeter**.  
-Las pruebas fueron ejecutadas y validadas en **MacOS**, pero también incluimos instrucciones para **Windows**.
+Las pruebas fueron ejecutadas y validadas en **MacOS**, pero tambien agregue instrucciones para ejecutar el archivos .jmx en **Windows**.
 
 ---
 
